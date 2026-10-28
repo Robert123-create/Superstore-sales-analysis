@@ -1,5 +1,7 @@
 # Superstore Sales Analysis
+## Power BI Dashboard Preview
 
+![Superstore Sales Analysis Dashboard](06_Dashboard_Screenshot/Superstore Sales_Dashboard_Screenshot.png)
 ## Project Overview
 
 This project analyzes Superstore sales data to understand sales
