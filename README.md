@@ -108,8 +108,6 @@ Superstore Sales Analysis Project/
 │   └── Superstore_Analysis.sql
 ├── 02_Power_BI_Dashboard/
 │   └── [Power BI .pbix file]
-- Power BI Dashboard (`.pbix`)
-- Dashboard Screenshot: `06_Dashboard_Screenshot/Superstore sales_Dashboard.png
 ├── 03_Reports/
 │   └── [Final report .pdf]
 ├── 04_Database_Backup/
